@@ -1,0 +1,15 @@
+#Build for bharat ..
+Devexperts is multilingual language supporter which is inside the "indic Language support problem statement " in which we made the solution of that problem statement which helps for E-commerce Website ,or the other organizations .
+Due to this ,There is increase  of people to increase in the E-Commerce Websites or Applications .
+In this project,Used technologies are Html,css,javascript and jquery , live server to testing the code and implementation etc.
+Html -used to construct and basic sturcture of the code .....................................
+css -used to design the website and make buttons to become attractive ,coloured or some extras featured are added and also javascript is used to implement ,movable or Well-functioned ;
+the live Server  is used to implement and also to rechecks or debug th error;
+For translator It is working from English to Hindi ,English to Marathi ,English to Bengali,Engish to Gujarfati ,English to Kannda and 22 other Languanges and  will be translated with the same one.
+jQuery is a fast, feature-rich, and lightweight JavaScript library. The main purpose of using jQuery is to make it much easier to use JavaScript on your modern and smart website. It is highly recommended to have a basic knowledge of HTML, CSS, and JavaScript.
+
+jQuery was developed to save the time of developers by reducing the code. It takes loads of common duties that require many lines of JavaScript code to perform and wrap them into strategies that you may name with a single line of code.
+And also translate from by Voice assistant(Expo) with the use of that u can order it by Speak to speak ,text to speak which will become easier for Customers.
+and, Customers can sell or add to cart with in our regional Language ,or also search in their own language ,
+we make th login page with help of html,css,javascript and also made the sql file which stores the customers data or contact info which is easier to know of customer .
+and its done ..
